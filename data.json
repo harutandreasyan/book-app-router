@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "A Portrait of the Void",
+      "pages": 340,
+      "price": 19.99,
+      "authorId": 1
+    },
+    {
+      "id": "2",
+      "title": "The Starlit Abyss",
+      "pages": 420,
+      "price": 21.99,
+      "authorId": 2
+    },
+    {
+      "id": "3",
+      "title": "Whispers of Forgotten Dreams",
+      "pages": 300,
+      "price": 17.99,
+      "authorId": 3
+    },
+    {
+      "id": "4",
+      "title": "Echoes of Silence",
+      "pages": 280,
+      "price": 14.99,
+      "authorId": 4
+    },
+    {
+      "id": "5",
+      "title": "The Midnight Wanderer",
+      "pages": 360,
+      "price": 20.99,
+      "authorId": 5
+    },
+    {
+      "id": "6",
+      "title": "Shadows of the Night",
+      "pages": 310,
+      "price": 18.99,
+      "authorId": 6
+    },
+    {
+      "id": "8",
+      "title": "The Forgotten Light",
+      "pages": 390,
+      "price": 19.99,
+      "authorId": 8
+    },
+    {
+      "id": "74e5",
+      "title": "Scope and Closures",
+      "pages": 256,
+      "authorId": null
+    },
+    {
+      "id": "35a9",
+      "title": "Echoes of Silence",
+      "pages": 555,
+      "authorId": null
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "James",
+      "surname": "Joyce"
+    },
+    {
+      "id": "2",
+      "name": "Virginia",
+      "surname": "Woolf"
+    },
+    {
+      "id": "3",
+      "name": "F. Scott",
+      "surname": "Fitzgerald"
+    },
+    {
+      "id": "4",
+      "name": "Ernest",
+      "surname": "Hemingway"
+    },
+    {
+      "id": "5",
+      "name": "George",
+      "surname": "Orwell"
+    },
+    {
+      "id": "6",
+      "name": "Aldous",
+      "surname": "Huxley"
+    },
+    {
+      "id": "7",
+      "name": "Leo",
+      "surname": "Tolstoy"
+    },
+    {
+      "id": "8",
+      "name": "Gabriel Garcia",
+      "surname": "Marquez"
+    },
+    {
+      "id": "9",
+      "name": "Charlotte",
+      "surname": "Bronte"
+    },
+    {
+      "id": "10",
+      "name": "Herman",
+      "surname": "Melville"
+    },
+    {
+      "id": "07b4",
+      "name": "Kayl",
+      "surname": "Simpson"
+    }
+  ]
+}
